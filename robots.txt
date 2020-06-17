@@ -1,0 +1,4 @@
+# Notice: Crawling Webtarget is prohibited unless you have express written
+
+User-agent: *
+Disallow: /mobile/
